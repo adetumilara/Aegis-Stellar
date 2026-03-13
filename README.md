@@ -670,25 +670,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 💬 Support
-
-### Get Help
-
-- **Discord**: [Join our community](https://discord.gg/aegis-stellar)
-- **Twitter**: [@AegisStellar](https://twitter.com/AegisStellar)
-- **Email**: support@aegis-stellar.io
-
-### Resources
-
-- [Documentation](https://docs.aegis-stellar.io)
-- [Smart Contract Docs](https://docs.aegis-stellar.io/contracts)
-- [API Reference](https://api.aegis-stellar.io)
-- [Bug Bounty](https://bugbounty.aegis-stellar.io)
-
----
-
-<p align="center">
-  <strong>Built with ❤️ on Stellar</strong>
-  <br />
-  <sub>Securing the future of DeFi</sub>
-</p>
